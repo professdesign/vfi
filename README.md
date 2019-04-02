@@ -38,18 +38,18 @@
 ## JSDELIVER
 ### GLOBAL HEAD
  ```javascript
-<link href="//cdn.jsdelivr.net/gh/professdesign/vfi@1.1/scroll-styles.min.css" rel="stylesheet" type="text/css"/> 
+<link href="//cdn.jsdelivr.net/gh/professdesign/vfi@1.1a/scroll-styles.min.css" rel="stylesheet" type="text/css"/> 
 <script src="//cdnjs.cloudflare.com/ajax/libs/svg.js/2.7.0/svg.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.6/ScrollMagic.min.js"></script>
 ```
 ### GLOBAL /BODY
  ```javascript
 <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.6/plugins/jquery.ScrollMagic.min.js"></script>
-<script src="//cdn.jsdelivr.net/gh/professdesign/vfi@1.1/scroll-module.min.js"></script>
+<script src="//cdn.jsdelivr.net/gh/professdesign/vfi@1.1a/scroll-module.min.js"></script>
  ```
 
 ### PAGE /BODY
 ```javascript
-<script src="//cdn.jsdelivr.net/gh/professdesign/vfi@1.1/scroll-page-solutions.min.js"></script>
+<script src="//cdn.jsdelivr.net/gh/professdesign/vfi@1.1a/scroll-page-solutions.min.js"></script>
  ```
   
